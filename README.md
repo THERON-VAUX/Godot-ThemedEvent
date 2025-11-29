@@ -4,4 +4,4 @@
 
 ---
 ### 主题赛事
-[《Three Studio半周年庆典 · 双主题游戏设计挑战赛》公告](./Projects/)
+[《Three Studio半周年庆典 · 双主题游戏设计挑战赛》公告](./Projects/2025ThemedEvent.md)
